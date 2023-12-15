@@ -45,7 +45,7 @@ null
 ##### Form URL-Encoded
 |Required| Parameter | Type | Value | Description |
 |---------|---------|------|------|------------|
-|true|apiId|String|daf6f82616c44f408b57cbb75304cafe||
+|true|apiId|String|copy1695282284993d73018||
 
 
 ##### Multipart
@@ -62,7 +62,7 @@ null
   "success": true,
   "code": 200,
   "message": "success",
-  "timestamp": 1702605938805,
+  "timestamp": 1702605991286,
   "data": [
     {
       "name": "success",
@@ -87,7 +87,128 @@ null
     {
       "name": "data",
       "description": "data",
-      "children": []
+      "children": [
+        {
+          "name": "BondKey",
+          "description": "BondKey",
+          "children": []
+        },
+        {
+          "name": "BeginHoldAmt",
+          "description": "BeginHoldAmt",
+          "children": []
+        },
+        {
+          "name": "EndHoldAmt",
+          "description": "EndHoldAmt",
+          "children": []
+        },
+        {
+          "name": "EndCostAmt",
+          "description": "EndCostAmt",
+          "children": []
+        },
+        {
+          "name": "EndMarketValue",
+          "description": "EndMarketValue",
+          "children": []
+        },
+        {
+          "name": "CleanMarketValue",
+          "description": "CleanMarketValue",
+          "children": []
+        },
+        {
+          "name": "FloatProfitLoss",
+          "description": "FloatProfitLoss",
+          "children": []
+        },
+        {
+          "name": "Nominal",
+          "description": "Nominal",
+          "children": []
+        },
+        {
+          "name": "Turnover",
+          "description": "Turnover",
+          "children": []
+        },
+        {
+          "name": "DV01",
+          "description": "DV01",
+          "children": []
+        },
+        {
+          "name": "BondCreditRate",
+          "description": "BondCreditRate",
+          "children": []
+        },
+        {
+          "name": "RemainingYear",
+          "description": "RemainingYear",
+          "children": []
+        },
+        {
+          "name": "TermTypeName",
+          "description": "TermTypeName",
+          "children": []
+        },
+        {
+          "name": "CpnRate",
+          "description": "CpnRate",
+          "children": []
+        },
+        {
+          "name": "BondName",
+          "description": "BondName",
+          "children": []
+        },
+        {
+          "name": "BondType",
+          "description": "BondType",
+          "children": []
+        },
+        {
+          "name": "Province",
+          "description": "Province",
+          "children": []
+        },
+        {
+          "name": "IssuerName",
+          "description": "IssuerName",
+          "children": []
+        },
+        {
+          "name": "BondOptionYear",
+          "description": "BondOptionYear",
+          "children": []
+        },
+        {
+          "name": "HoldRatio",
+          "description": "HoldRatio",
+          "children": []
+        },
+        {
+          "name": "TurnoverRatio",
+          "description": "TurnoverRatio",
+          "children": []
+        },
+        {
+          "name": "ChgHoldAmt",
+          "description": "ChgHoldAmt",
+          "children": []
+        },
+        {
+          "name": "TermStructure",
+          "description": "TermStructure",
+          "children": []
+        },
+        {
+          "name": "Industrygics2",
+          "description": "Industrygics2",
+          "children": []
+        }
+      ]
     }
   ]
 }
